@@ -11,7 +11,7 @@ Function    |    Sync-FTPDirectory     |        1.0   |     WinSCP_FTP |
 Function    |    Test-FTPFile          |        1.0   |     WinSCP_FTP |
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-Screenshot<img src="https://github.com/BetaHydri/WinSCP_FTP/blob/master/sample transfer.png"/>
+Screenshot<img src="sample transfer.png"/>
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Functions
 
