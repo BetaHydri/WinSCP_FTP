@@ -1,12 +1,14 @@
 # WinSCP_FTP PowerShell automation module.
 
 Contains basic FTP(s) Upload/Download/Sync/Test and Show FTP functions
------------     ----                          -------    ----------
-Function        Get-FTP                       1.0        WinSCP_FTP
-Function        Send-FTP                      1.0        WinSCP_FTP
-Function        Show-FTPDirectory             1.0        WinSCP_FTP
-Function        Sync-FTPDirectory             1.0        WinSCP_FTP
-Function        Test-FTPFile                  1.0        WinSCP_FTP
+----------- -----------------------------------------------------------
+Type        |    Name                  |     Version  |    Root        |
+------------|--------------------------|--------------|----------------|
+Function    |    Get-FTP               |        1.0   |     WinSCP_FTP |
+Function    |    Send-FTP              |        1.0   |     WinSCP_FTP |
+Function    |    Show-FTPDirectory     |        1.0   |     WinSCP_FTP |
+Function    |    Sync-FTPDirectory     |        1.0   |     WinSCP_FTP |
+Function    |    Test-FTPFile          |        1.0   |     WinSCP_FTP |
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 NAME
