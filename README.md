@@ -2,7 +2,7 @@
 
 Contains basic FTP(s) Upload/Download/Sync/Test and Show FTP functions
 ----------- -----------------------------------------------------------
-Type        |    Name                  |     Version  |    Root        |
+Type        |    Name                  |     Version  |    Module      |
 ------------|--------------------------|--------------|----------------|
 Function    |    Get-FTP               |        1.0   |     WinSCP_FTP |
 Function    |    Send-FTP              |        1.0   |     WinSCP_FTP |
@@ -11,6 +11,10 @@ Function    |    Sync-FTPDirectory     |        1.0   |     WinSCP_FTP |
 Function    |    Test-FTPFile          |        1.0   |     WinSCP_FTP |
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+Screenshot<img src="https://github.com/BetaHydri/WinSCP_FTP/blob/master/sample transfer.png"/>
+----------------------------------------------------------------------------------------------------------------------------------------
+## Funtions
+
 NAME
     
     Send-FTP
